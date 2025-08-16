@@ -10,9 +10,9 @@ export const sharedPageComponents: SharedLayout = {
       provider: 'giscus',
       options: {
         repo: 'jeff-mos-def/jeff-mos-def.github.io',
-        repoId: 'R_kgDOOJT5Dg',
-        category: 'Announcements',
-        categoryId: 'DIC_kwDOOJT5Ds4ColHM',
+        repoId: 'R_kgDOPeu1vQ',
+        category: 'General',
+        categoryId: 'DIC_kwDOPeu1vc4CuPiI',
         lang: 'en'
       }
     }),
