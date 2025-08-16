@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - v4  # Use 'main' if it's used instead
+  workflow_dispatch:
 
 permissions:
   contents: read
