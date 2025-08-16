@@ -5,11 +5,24 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        repo: 'jeff-mos-def/jeff-mos-def.github.io',
+        repoId: 'R_kgDOOJT5Dg',
+        category: 'Announcements',
+        categoryId: 'DIC_kwDOOJT5Ds4ColHM',
+        lang: 'en'
+      }
+    }),
+  ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/jeff-mos-def/jeff-mos-def.github.io",
+      "Bluesky": "https://bsky.app/profile/jeffcamacho.com",
+      LinkedIn: "https://www.linkedin.com/in/jeff-camacho",
+      "Bug or Correction Report": "https://github.com/jeff-mos-def/jeff-mos-def.github.io/issues/new?labels=bug&template=content_bug.md"
     },
   }),
 }
@@ -44,6 +57,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    Component.RecentNotes(),
+
   ],
 }
 
