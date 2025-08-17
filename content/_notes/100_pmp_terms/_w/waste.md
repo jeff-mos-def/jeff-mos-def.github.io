@@ -34,4 +34,4 @@ These non-value-adding activities increase cost, delay delivery, and reduce over
 - **Increases Focus on Value** – Aligns team efforts with what matters to stakeholders  
 - **Drives Cultural Change** – Promotes a mindset of continuous evaluation and improvement  
 
-See also: [[Value Stream Map]], [[Lean]], [[Process Improvement Plan]], [[Work in Progress (WIP)]], [[Cycle Time]].
+See also: [[value_stream_map.md | Value Stream Map]], [[lean.md | Lean]], [[Process Improvement Plan]], [[work_in_progress.md | Work in Progress (WIP)]], [[cycle_time.md | Cycle Time]].

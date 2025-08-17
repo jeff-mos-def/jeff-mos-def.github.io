@@ -57,4 +57,4 @@ flowchart LR
 - **Enables Focused Execution** – Concentrates resources and attention on specific outcomes  
 - **Enhances Predictability** – Allows more accurate estimation and progress tracking
 
-See also: [[Phase Gate]], [[Project Life Cycle]], [[Milestone]], [[Work Breakdown Structure (WBS)]], [[Project Management Plan]].
+See also: [[phase_gate.md | Phase Gate]], [[project_life_cycle.md | Project Life Cycle]], [[milestone.md | Milestone]], [[work_breakdown_structure.md | Work Breakdown Structure (WBS)]], [[project_management_plan.md | Project Management Plan]].

@@ -33,4 +33,4 @@ Projects are distinct from operations and are often components of broader progra
 - **Feeds Programs and Portfolios** – Provides outputs that contribute to larger initiatives  
 - **Enables Controlled Delivery** – Managed through structured planning and execution
 
-See also: [[Program]], [[Portfolio]], [[Project Management]], [[Deliverable]], [[Temporary Endeavor]].
+See also: [[program.md | Program]], [[portfolio.md | Portfolio]], [[project_management.md | Project Management]], [[deliverable.md | Deliverable]].
