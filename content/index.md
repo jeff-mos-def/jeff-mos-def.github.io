@@ -9,4 +9,6 @@ This site is built with [Quartz](https://quartz.jzhao.xyz/), hosted on [GitHub P
 
 You'll find notes on **PMP process groups, knowledge areas, and key project management concepts**, mapped together for easy reference. Since Quartz allows for knowledge linking, you can explore related topics as you navigate the content.  
 
+The good portion of this knowledge repo is vocabulary. There are still a good amount of links that are left open in there, as I was focusing on PMI specific vocabulary first, and thought dumping as I went along. I'll be updating them as I go along.
+
 I'll keep updating the site as I progress. Hope this helps!
