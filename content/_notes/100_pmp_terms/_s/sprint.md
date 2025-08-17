@@ -42,4 +42,4 @@ Sprints provide a consistent rhythm for delivery, learning, and improvement in a
 - **Promotes Continuous Improvement** – Embeds learning through structured feedback loops  
 - **Aligns Work to Goals** – Keeps teams focused on producing valuable outcomes  
 
-See also: [[Iteration]], [[Product Increment]], [[Sprint Planning]], [[Sprint Review]], [[Sprint Retrospective]].
+See also: [[iteration.md | Iteration]], [[Product Increment]], [[Sprint Planning]], [[sprint_review.md | Sprint Review]], [[Sprint Retrospective]].

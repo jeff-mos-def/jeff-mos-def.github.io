@@ -43,4 +43,4 @@ Where:
 - **Feeds Forecasting Models** – Helps refine estimates to complete and finish  
 - **Enhances Stakeholder Reporting** – Provides simple, impactful performance insight  
 
-See also: [[Cost Variance (CV)]], [[Schedule Performance Index (SPI)]], [[Earned Value (EV)]], [[Planned Value (PV)]], [[Schedule Forecasts]].
+See also: [[cost_variance.md | Cost Variance (CV)]], [[schedule_performance_index.md | Schedule Performance Index (SPI)]], [[earned_value.md | Earned Value (EV)]], [[planned_value.md | Planned Value (PV)]], [[schedule_forecasts.md | Schedule Forecasts]].

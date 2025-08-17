@@ -41,4 +41,4 @@ It defines the agreed-upon scope of the project, including all deliverables and 
 - **Improves Accountability** – Clarifies expectations for all stakeholders  
 - **Facilitates Integrated Planning** – Aligns with time, cost, and quality baselines  
 
-See also: [[Baseline]], [[Cost Baseline]], [[Performance Measurement Baseline]], [[Schedule Baseline]], [[Scope Management Plan]].
+See also: [[baseline.md | Baseline]], [[cost_baseline.md | Cost Baseline]], [[performance_measurement_baseline.md | Performance Measurement Baseline]], [[schedule_baseline.md | Schedule Baseline]], [[scope_management_plan.md | Scope Management Plan]].
