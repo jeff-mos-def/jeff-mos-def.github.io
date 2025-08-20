@@ -54,4 +54,4 @@ A portfolio manager relies on investment analysis documents and status dashboard
 - **Support Decision-Making** – Provide a historical record of project progress and issues.
 - **Improve Accountability** – Help track responsibilities and commitments across teams.
 
-See also: [[Project Management Plan]], [[Product Backlog]], [[Sprint Backlog]], [[Burndown Chart]], [[Risk Register]], [[Definition of Done (DoD)]].
+See also: [[project_management_plan.md | Project Management Plan]], [[product_backlog.md | Product Backlog]], [[sprint_backlog.md | Sprint Backlog]], [[burndown_chart.md | Burndown Chart]], [[risk_register.md | Risk Register]], [[definition_of_done.md | Definition of Done (DoD)]].

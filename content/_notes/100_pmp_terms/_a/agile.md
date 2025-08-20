@@ -55,4 +55,4 @@ A UX team applies Agile principles by prototyping and testing new designs with u
 - **Improves Customer Satisfaction** – Ensures the end product meets evolving needs.
 - **Increases Efficiency** – Focuses on delivering value quickly and avoiding waste.
 
-See also: [[adaptive_approach | Adaptive Approach]], [[Incremental Approach]], [[Iterative Approach]], [[Scrum]], [[Kanban]], [[Extreme Programming (XP)]].
+See also: [[adaptive_approach | Adaptive Approach]], [[incremental_approach.md | Incremental Approach]], [[iterative_approach.md | Iterative Approach]], [[scrum.md | Scrum]], [[kanban.md | Kanban]], [[extreme_programming.md | Extreme Programming (XP)]].

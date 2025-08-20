@@ -43,4 +43,4 @@ After evaluating each option's impact, feasibility, and risks, the team selects 
 - **Enhances Project Efficiency** – Helps select the most effective approach to completing tasks.
 - **Reduces Risk** – Identifies potential drawbacks and allows proactive mitigation.
 
-See also: [[Risk Management]], [[Cost-Benefit Analysis]], [[Feasibility Analysis]], [[Decision Tree Analysis]].
+See also: [[risk_management.md | Risk Management]], [[cost_benefit_analysis.md | Cost-Benefit Analysis]], [[feasibility_analysis.md | Feasibility Analysis]], [[decision_tree_analysis.md | Decision Tree Analysis]].

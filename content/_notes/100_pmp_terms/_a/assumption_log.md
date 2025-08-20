@@ -40,4 +40,4 @@ A corporate event assumes a venue will accommodate 500 attendees. If the venue i
 - **Improves Risk Mitigation** – Helps identify potential risks before they become critical issues.
 - **Supports Project Governance** – Ensures transparency in decision-making.
 
-See also: [[Assumption]], [[Risk Management]], [[Constraints]], [[Change Control]].
+See also: [[assumption.md | Assumption]], [[risk_management.md | Risk Management]], [[constraint.md | Constraint]], [[change_control.md | Change Control]].

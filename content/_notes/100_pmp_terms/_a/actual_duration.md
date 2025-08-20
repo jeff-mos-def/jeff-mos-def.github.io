@@ -35,4 +35,4 @@ tags:
 - **Supports Performance Analysis** – Used to compare planned vs. actual execution times.
 - **Aids in Delay Management** – Identifies potential schedule risks early.
 
-See also: [[Activity]], [[Activity List]].
+See also: [[activity.md | Activity]], [[activity_list.md | Activity List]].

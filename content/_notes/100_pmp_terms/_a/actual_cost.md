@@ -33,4 +33,4 @@ tags:
 - **Improves Budget Forecasting** – Provides insights for future cost estimates.
 - **Feeds into Earned Value Analysis** – Used to calculate performance metrics like Cost Performance Index (CPI).
 
-See also: [[Budget at Completion (BAC)]], [[Earned Value (EV)]], [[Estimate at Completion (EAC)]], [[Estimate to Complete (ETC)]], [[Planned Value (PV)]].
+See also: [[budget_at_completion.md | Budget at Completion (BAC)]], [[earned_value.md | Earned Value (EV)]], [[estimate_at_completion.md | Estimate at Completion (EAC)]], [[Estimate to Complete (ETC)]], [[planned_value.md | Planned Value (PV)]].

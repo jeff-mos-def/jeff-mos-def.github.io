@@ -51,4 +51,4 @@ flowchart TD
 - **Strengthens Contingency Planning** – Tests whether current buffers or reserves are sufficient  
 - **Feeds into Monte Carlo or Schedule Simulations** – Often used with quantitative analysis tools  
 
-See also: [[Quantitative Risk Analysis]], [[Contingency Plan]], [[Monte Carlo Simulation]], [[Schedule Model Analysis]], [[Risk Response Planning]].
+See also: [[quantitative_risk_analysis.md | Quantitative Risk Analysis]], [[Contingency Plan]], [[monte_carlo_simulation.md | Monte Carlo Simulation]], [[schedule_model_analysis.md | Schedule Model Analysis]], [[risk_response.md | Risk Response Planning]].

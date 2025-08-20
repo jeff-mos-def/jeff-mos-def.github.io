@@ -39,4 +39,4 @@ A marketing team estimates the cost of a new product launch campaign by referenc
 - **Provides a Baseline for Further Refinement** – Can be adjusted with more precise techniques later.
 - **Reduces Planning Effort** – Helps estimate costs and timelines efficiently in the early stages.
 
-See also: [[Bottom-Up Estimating]], [[Parametric Estimating]], [[Program Evaluation and Review Technique (PERT)]], [[Multipoint Estimating]].
+See also: [[bottom-up_estimating.md | Bottom-Up Estimating]], [[parametric_estimating.md | Parametric Estimating]], [[program_evaluation_and_review_technique.md | Program Evaluation and Review Technique (PERT)]], [[multipoint_estimating.md | Multipoint Estimating]].

@@ -38,4 +38,4 @@ A quality control team performs checks on a production line. As output increases
 - **Ensures Accurate Tracking** – Supports better cost and performance measurement in EVM.
 - **Reflects Dependency on Primary Work** – Ties effort to tangible progress rather than standalone tasks.
 
-See also: [[Discrete Effort]], [[Level of Effort]].
+See also: [[discrete_effort.md | Discrete Effort]], [[level_of_effort.md | Level of Effort]].

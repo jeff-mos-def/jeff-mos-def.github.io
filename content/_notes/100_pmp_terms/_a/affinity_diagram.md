@@ -39,4 +39,4 @@ A manufacturing team uses an affinity diagram to sort inefficiencies into catego
 - **Enhances Decision-Making** – Highlights critical areas that need focus.
 - **Supports Strategic Planning** – Helps teams prioritize improvements and innovations.
 
-See also: [[Cause-and-Effect Diagram]], [[Root Cause Analysis]], [[Problem-Solving]], [[Process Flow]].
+See also: [[cause-and-effect-diagram.md | Cause-and-Effect Diagram]], [[root_cause_analysis.md | Root Cause Analysis]], [[problem_solving.md | Problem Solving]], [[process_flow.md | Process Flow]].

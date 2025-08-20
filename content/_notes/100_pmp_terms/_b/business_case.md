@@ -3,8 +3,6 @@ title: Business Case
 draft: false
 date: 2025-03-21
 tags:
-  
-  
   - strategic-planning
   - decision-making
 ---
@@ -41,4 +39,4 @@ A business case for launching a **new product line** analyzes market demand, pro
 - **Supports Stakeholder Buy-In** – Provides data-driven justification for approval.
 - **Enhances Risk Awareness** – Identifies challenges before committing resources.
 
-See also: [[Benefits Management Plan]], [[Feasibility Analysis]], [[Risk Assessment]], [[Cost-Benefit Analysis]].
+See also: [[benefits_management_plan.md | Benefits Management Plan]], [[feasibility_analysis.md | Feasibility Analysis]], [[risk_assessment.md | Risk Assessment]], [[cost_benefit_analysis.md | Cost-Benefit Analysis]].

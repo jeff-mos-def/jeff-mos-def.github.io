@@ -30,4 +30,4 @@ An **activity list** is a documented tabulation of scheduled activities, providi
 - **Facilitates Tracking** – Supports progress monitoring and accountability.
 - **Aids in Resource Allocation** – Ensures proper distribution of workforce and materials.
 
-See also: [[Activity]], [[Accountability]].
+See also: [[activity.md | Activity]], [[accountability.md | Accountability]].

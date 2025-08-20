@@ -39,4 +39,4 @@ A marketing team assumes that a key influencer will participate in a campaign, b
 - **Can Lead to Project Risks** – Incorrect assumptions can create delays and budget overruns.
 - **Require Validation** – Should be reviewed through research, expert opinions, or contingency planning.
 
-See also: [[Assumption Log]], [[Risk Management]], [[Constraints]], [[Feasibility Analysis]].
+See also: [[assumption_log.md | Assumption Log]], [[risk_management.md | Risk Management]], [[constraint.md | Constraint]], [[feasibility_analysis.md | Feasibility Analysis]].

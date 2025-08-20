@@ -3,8 +3,6 @@ title: Accountability
 draft: false
 date: 2025-03-28
 tags:
-  
-  
   - leadership
 ---
 
@@ -36,4 +34,4 @@ A finance officer overseeing a project’s budget is accountable for financial c
 - **Enhances Performance** – Drives focus on results rather than just activity.
 - **Strengthens Trust** – Builds confidence among stakeholders and team members.
 
-See also: [[Acceptance Criteria]].
+See also: [[acceptance_criteria.md | Acceptance Criteria]].
