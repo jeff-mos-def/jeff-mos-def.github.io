@@ -4,7 +4,13 @@ draft: false
 date: 2025-08-11
 ---
 
+---
+
 All notable changes to this site will be documented in this file.
+
+Build Status:
+
+![Deploy Quartz site to GitHub Pages](https://github.com/jeff-mos-def/jeff-mos-def.github.io/actions/workflows/deploy.yml/badge.svg)
 
 ---
 
