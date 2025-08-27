@@ -10,11 +10,7 @@ All notable changes to this site will be documented in this file.
 
 Build Status:
 
-[![Last Commit](https://img.shields.io/github/last-commit/jeff-mos-def/jeff-mos-def.github.io?style=flat)](https://github.com/jeff-mos-def/jeff-mos-def.github.io)
-
 ![Deploy Quartz site to GitHub Pages](https://github.com/jeff-mos-def/jeff-mos-def.github.io/actions/workflows/deploy.yml/badge.svg)
-
-![Last Commit](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/jeff-mos-def/jeff-mos-def.github.io/commits&label=last%20commit&query=$[0].commit.message&color=blue)
 
 ---
 
