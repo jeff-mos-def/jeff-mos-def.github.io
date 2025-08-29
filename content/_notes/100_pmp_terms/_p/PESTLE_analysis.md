@@ -6,7 +6,7 @@ tags:
   - strategic-analysis
   - external-environment
   - opportunity-and-threat
-  - planning-tools
+  - project-management
 ---
 
 **PESTLE Analysis** is a **strategic planning tool** used to systematically evaluate the external environment through six key lenses: **Political, Economic, Sociocultural, Technological, Legal, and Environmental**. It helps project teams understand the macro-environmental factors that can influence success, revealing both **opportunities and threats** beyond the organization’s control.
@@ -66,4 +66,4 @@ flowchart LR
 - Aligns with Strategy – Helps shape initiatives in harmony with external realities
 - Improves Forecasting – Enhances situational awareness for long-term success
 
-See also: [[SWOT Analysis]], [[Risk Management]], [[Environmental Factors]], [[Strategic Alignment]], [[Opportunity]].
+See also: [[WOT.md | SWOT Analysis]], [[risk_management.md | Risk Management]], [[environmental_factors.md | Environmental Factors]], [[Strategic Alignment]], [[opportunity.md | Opportunity]].
