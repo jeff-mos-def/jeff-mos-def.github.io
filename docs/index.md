@@ -1,46 +1,38 @@
 ---
-title: Welcome to Quartz 4
+title: Welcome
 ---
 
-Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers are [[showcase|already using Quartz]] to publish personal notes, websites, and [digital gardens](https://jzhao.xyz/posts/networked-thought) to the web.
+Welcome! My name is Jeff, and this site is part of my ongoing work to organize and share knowledge while preparing for the [[project_management_professional.md | Project Management Professional (PMP)]] certification. I’ve worked as a **Technical Program Manager** supporting the **U.S. Air Force**, and I’m a [SAFe 6 SPC](https://framework.scaledagile.com/spc) with a focus on program and portfolio delivery.  
 
-## 🪴 Get Started
+This site is built with [Quartz](https://quartz.jzhao.xyz/), hosted on [GitHub Pages](https://pages.github.com/), and written in [Markdown](https://www.markdownguide.org/). Quartz gives me a way to structure content in a connected, searchable format. That makes it easier to explore PMP process groups, knowledge areas, and core concepts while also keeping my notes organized and accessible.  
 
-Quartz requires **at least [Node](https://nodejs.org/) v22** and `npm` v10.9.2 to function correctly. Ensure you have this installed on your machine before continuing.
+A large portion of this knowledge base is vocabulary and study notes. Some links are left open as I continue adding more detail, especially where I’m focused on PMI-specific definitions first. Over time, these will be updated into a more complete set of references.  
 
-Then, in your terminal of choice, enter the following commands line by line:
+## How to Use This Site
 
-```shell
-git clone https://github.com/jackyzha0/quartz.git
-cd quartz
-npm i
-npx quartz create
-```
+- Navigate through PMP topics using the linked notes and tags.  
+- Use the search to find terms quickly.  
+- Explore backlinks and graph view to see how concepts connect.  
+- Leave comments or questions directly on pages through **[Giscus](/)**.  
 
-This will guide you through initializing your Quartz with content. Once you've done so, see how to:
+## Features
 
-1. [[authoring content|Writing content]] in Quartz
-2. [[configuration|Configure]] Quartz's behaviour
-3. Change Quartz's [[layout]]
-4. [[build|Build and preview]] Quartz
-5. Sync your changes with [[setting up your GitHub repository|GitHub]]
-6. [[hosting|Host]] Quartz online
+Quartz comes with everything I need out of the box:  
+- Obsidian compatibility, full-text search, backlinks, transclusions, Latex support, and syntax highlighting.  
+- Graph view to visualize connections across topics.  
+- Hot-reload when editing and incremental rebuilds for faster publishing.  
+- Support for custom layouts and components, so I can expand beyond plain notes when needed.  
+- Internationalization, comments, and small bundle sizes for quick page loads.  
 
-If you prefer instructions in a video format you can try following Nicole van der Hoeven's
-[video guide on how to set up Quartz!](https://www.youtube.com/watch?v=6s6DT1yN4dw&t=227s)
+## Troubleshooting + Updating
 
-## 🔧 Features
+Quartz is updated often. If you notice something broken here, it may be related to new versions rolling out. I keep my setup updated, but there can be gaps while I focus on content. If you see an issue that looks like a bug, you can always check the [Quartz GitHub repository](https://github.com/jackyzha0/quartz) for the latest fixes.  
 
-- [[Obsidian compatibility]], [[full-text search]], [[graph view]], [[wikilinks|wikilinks, transclusions]], [[backlinks]], [[features/Latex|Latex]], [[syntax highlighting]], [[popover previews]], [[Docker Support]], [[i18n|internationalization]], [[comments]] and [many more](./features/) right out of the box
-- Hot-reload on configuration edits and incremental rebuilds for content edits
-- Simple JSX layouts and [[creating components|page components]]
-- [[SPA Routing|Ridiculously fast page loads]] and tiny bundle sizes
-- Fully-customizable parsing, filtering, and page generation through [[making plugins|plugins]]
+## Connect With Me
 
-For a comprehensive list of features, visit the [features page](./features/). You can read more about the _why_ behind these features on the [[philosophy]] page and a technical overview on the [[architecture]] page.
+If you’d like to reach out, you can:  
+- Use the **[Contact Me](/contact)** page.  
+- Leave feedback in **[Giscus comments](/)** under any note.  
+- Find me through my **social media links**.  
 
-### 🚧 Troubleshooting + Updating
-
-Having trouble with Quartz? Try searching for your issue using the search feature. If you haven't already, [[upgrading|upgrade]] to the newest version of Quartz to see if this fixes your issue.
-
-If you're still having trouble, feel free to [submit an issue](https://github.com/jackyzha0/quartz/issues) if you feel you found a bug or ask for help in our [Discord Community](https://discord.gg/cRFFHYye7t).
+I’ll keep updating this site as I progress through PMP prep, and I hope the notes here help others working toward the same goal.
